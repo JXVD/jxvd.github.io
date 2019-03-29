@@ -4,7 +4,7 @@ title:  "Games as Physical Objects"
 date:   2019-03-28 17:12:00 -0700
 categories: Physical Games
 ---
-Games are physical objects. Until we figure out a way to mind-link with computers, we will need to use our bodies to interact with them. 
+    Games are physical objects. Until we figure out a way to mind-link with computers, we will need to use our bodies to interact with them. 
 This means that when designing any system on any machine, the actual way a user will move their body and the feedback they get is extremely important. This seems obvious in a lot of ways, I wouldn't design a puzzle game where a user needs to solve a rubix cube in 20 seconds to advance unless I wanted to be intentionally frustrating. I wouldn't design a menu where the user needs to click the top left of their screen, then the bottom right, every time they want to do a very common action. I'm not a UX designer, that is an extremely deep field that requires a lot more time, effort, and aesthetic knowledge than I currently possess. However, I do think I know something about physically interacting with games, and how to make that less frustrating.
 
 Menus and ui elements are hard, and they can be boring to make. After spending a long amount of time on a game, the last thing I want to
