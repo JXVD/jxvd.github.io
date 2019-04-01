@@ -22,7 +22,8 @@ All of this has just been focusing on a pause menu, but it is applicable to any 
  
 All of these details are just small parts of how a player experiences a game. Even in the small snapshot of a pause menu, decisions I would make can be drastically different from what a different designer would make. Is it more important for the quit game button to stand out than for that button's color scheme to be part of a cohesive whole? Is it more important that a player notices an audio cue or that the audio cue is part of the soundscape? As long as the designer of the game thinks about how a player will take and recieve the physical inputs the game gives them, they can remove all the hassle that isn't the main focus of the experience. I want to spend zero time thinking about menus when I play a game, if I notice your menu for any reason other than liking it aesthetically, it is something to be improved.
 
-Next time I'll be writing about various controllers and input devices to look more literally at the phyiscal aspects of games.
+Next time I'll be writing about various controllers and input devices to look more literally at the phyiscal aspects of games. If you want to get in touch with me for any reason, use [Twitter][twitter].
 
 [color-blind]: https://www.color-blindness.com/coblis-color-blindness-simulator
 [99-percent-alarms]: https://99percentinvisible.org/episode/mini-stories-volume-4/2/)
+[twitter]: https://wwww.twitter.com/jxvd
