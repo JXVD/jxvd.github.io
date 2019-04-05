@@ -3,6 +3,7 @@ layout: post
 title:  "Looks at Common Input Devices"
 date:   2019-04-01 12:12:00 -0700
 categories: Physical Games
+published: false
 ---
 
 There are a lot of different input devices, [*a lot of different input devices*][input-devices]. So how do you even begin to grapple with what you'll let your player use? If you're like me, you probably only anticipate players using one specific kind of device for any one game you work on. This is reasonable as long as you are willing to take the hit when someone says "this game feels really bad on a Sega Bass Pro Fisherman rod." Personally, I just say what kind of input device I expect the player to use in a Readme file. This is good because you only have to design for one input system, but it can make your game unplayable for anyone who can't actually use that device. If you have infinite time, money, and energy, go ahead and make a game for [theremin][theremin]; for everyone else here is a look at how I choose what inputs to design for and how I try to make sure I pay attention to the advantages and limitations of the input. 
