@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "The Evolution of 3rd Strike"
+date:   2019-04-15 12:12:00 -0700
+categories: Physical Games
+published: false
+---
+#3rd Strike in 2019
+If you want to win at Street Fighter III: 3rd Strike: Fight For the Future, you should pick Chun-Li. If you don't feel like doing that, you should pick Yun, then Ken, then Makoto, and from there it gets somewhat nebulous. There isn't really a decision to be made if your only goal is to win. This is a known and pretty generally accepted idea in the 3rd Strike community, Chun-Li is just better than every other character and the only two characters that really stand a chance are Yun and Ken. Even then, those two characters probably have losing matchups versus Chun-Li. If you were to look at EVO results from the mid 2000s, you could see this phenomenon very clearly.
+However, if you were to look at the teams for Co-op Cup for 2019, or 2018, or almost any year, you'd see a whole lot of characters that aren't Chun or Yun. Why is this? in such a relatively solved game, at the highest level of competition, why are people making sub-optimal decisions? The first and most obvious answer is that Cooperation Cup is a team tournament and a get together for a relatively small community. People want to have fun and celebrate the game with their friends. The second reason is in two parts, Chun-Li is boring to play for most people and the only reason to play 3rd Strike in 2019 is to have fun. 
+If you want to play to win, then go ahead and grind it out, MOV and Nuki will be there to happily play Chun-Li mirrors if you want to. However if you want to be sub-optimal in your character choices, there is a lot of fun to be had, and until you hit the highest level, you won't really be punished too hard for your choices.
+
+The system for 3rd strike is incredibly deep, and it is more than possible to be a good player with a bad character. You will never be the *best* player of the game with a bad character, but you can be good. Anyone who chooses to do this is willingly throwing away percentage points of win probability but who cares. There is no more money to play for in 3rd Strike, so there is no longer any pressure other than pride to play completely optimally. 
+
+
+Sp what makes 3rd Strike so deep? How can a good player overcome the issues of one of the least balanced popular fighting games of the last 20 years? There are a lot of reasons, but the one we will look at today is Parries.
+
+#Parries?
+What are parries? 
+
+Blue Parries
+If you tap forward or down while not doing an attack, you are inputting a parry. If you are attacked by an opponent during the 6 frames right after inputting the parry, you will parry that attack, taking no damage and building a small amount of EX meter.  (MAYBE EXPLAIN WHAT EX METER IS). 
+When you successfully parry an opponents attack, they are unable to do anything for a certain number of frames. This number is different depending on the strength of the attack. Quicker attacks have more frames of vulnerabilty added than slow ones. This is to reward parrying faster moves as well as to help normalize the combo opportunity after most parries.
+Note that there are two directions to input parries, forward and down. Forward will parry high attacks and middle attacks. Down will parry low attacks and middle attacks. Also note that the input needs to be a tap of that direction before returning to neutral. If you were to hold forward or down, you will only parry for 2 frames instead of the full six.
+
+If you were to input a parry and were not hit by an attack during those 6 frames, you enter into parry lock. This is a state that doesn't affect the character at all, it just means that you can't input another parry for the next 18 frames. This prevents a player from just mashing parries all the time. Note that you can mash parries if they are successful, this is how you can parry multi-hit attacks
+
+//embed Daigo Parry 
+Note, I am legally obligated by Fighting Game Law to at least at one point give a link to this, the most famous fighting game moment of all time
+//HOW LONG IS PARRY LOCK?
+//IS PARRY LOCK FOR BOTH FORWARD AND DOWN?
+//how long is red parry window
+//how long is window if it is a tap vs a hold?
+
+
+
+This is the normal circumstances for most parries. A parry in this circumstance is sometimes called a "blue parry." This is because there is a second, much less used kind of parry called a "red parry." To explain this, we need to quickly look at a hidden fighting game mechanic called "Auto-Guard."
+
+Auto Guard
+In almost every fighting game, if an opponent's attacks gets blocked, you are put into the state called blockstun. You are locked into blocking until a certain number of frames later. If the opponent hits you again with a different move while you are in this state, you will block that as well. This is true even if you let go of block. This being locked into the block state for as long as the opponent is hitting your guard is called autoguard. This is nice because it allows you to make other inputs that aren't blocking, so you can do moves immediately after the state ends.
+
+In 3rd Strike this is not the case, if you were allowed to make any input while blocking, what would happen if you tried to parry? The solution to this problem is the system known as Red Parries.
+ A red parry is identical to a parry except that it is done while in blockstun, and it only has a 2 frame window to be successful instead of 6. It is called a red parry because the character flashes red when it is successfully performed instead of the blue of the normal parry. 
+ Red Parries are almost exclusively used to deal with multi-hit attacks that have set timings. In the youtube video above, if Daigo had more health, he could have blocked the first hit of the super attack, then done a red parry, and then continue the parry as normal. It is about as difficult as it sounds, but he would have had a guaranteed timing as opposed to having to guess when the first hit was going to connect.
+
+
+
+
+-parries can be forward or down, still a mixup there
+-the input is forward so you gotta actively stop blocking to input it
+-the input is actually tap forward so you don't get it for free every time you walk forward
+-you can sneak the input into a million places if you are insanely good at 3s
+
+
+
+Red parries do a lot of shit blah blah blah.
+-make some moves unsafe
+-avoid chip
+-avoid checkmate scenarios
+-hard for even the best players in the world to do
+
+
+
+what parries do
+-invalidate fireballs 
+-enable jumping
+--Baf video
+
+
+questions to ask baf
+-a
+
+
+Explode Yomi
+
+
+
+
+[twitter]: https://wwww.twitter.com/jxvd
+[daigo]
