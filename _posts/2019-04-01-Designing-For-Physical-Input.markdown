@@ -24,11 +24,12 @@ This still left the issue of a player holding one direction as they transitioned
 
 The solution came when I was figuring out how to code and create the environment the character would walk in. How was I even going to move the character from one screen to the next. At first I was messing around with teleporting the character and camera at the transition points. Eventually I figured out that it would just be easier to create the various scenes on one big stage and move the player and camera around on that. Then I moved on to just having the game be set in a space that the character seamlessly walked around, but the camera cut from place to place. Then I realized that if I set the camera to always be from one general perspective, the character would always move in one general direction for each directional input. As long as I kept to the [180-degree rule][180], I could still be somewhat elaborate in my camera placement but avoid the character moving in the wrong direction after screen transitions. This could be further helped by making sure to highlight the place the character was going to be after a transition if it was going to be a more ambitious camera shot.  
 
-![inside](/_images/bar_inside.png)
 
 ![outside](/_images/bar_outside.png)
 
-The designs of both how I built the game and how the game was presented were both improved by being cognizant of how the player was going to actually physically interact with the input device. I could do this especially well because I limited what the players were allowed to use. At no point would a mouse ever be in use, so I could avoid any designs that had to keep that in mind.
+![inside](/_images/bar_inside.png)
+
+The design of both how the game was presented was improved by being cognizant of how the player was going to actually physically interact with the input device. I could do this especially well because I limited what the players were allowed to use. At no point would a mouse ever be in use, so I could avoid any designs that had to keep that in mind.
 
 Next time I'll be writing about executional difficulty. If you want to get in touch with me for any reason, use [Twitter][twitter].
 
