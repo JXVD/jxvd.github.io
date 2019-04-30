@@ -6,9 +6,9 @@ categories: Physical Games
 published: true
 ---
 
-##Designing For Physical Input
+## Designing For Physical Input
 
-###Part 1
+### Part 1
 
 There are a lot of different input devices, [*a lot of different input devices*][input-devices]. So how do you even begin to grapple with what you'll let your player use? If you're like me, you probably only anticipate players using one specific kind of device for any game you work on. This is reasonable as long as you are willing to take the hit when someone says, "this game feels really bad on a Sega Bass Pro Fisherman rod." I prefer to design games with one specific input device in mind. This makes designing a good system much easier, it also makes the game unplayable for anyone who can't use that device. If you have infinite time, money, and energy, go ahead and make a game for [theremin][theremin]. For everyone else, here is a look at how I choose what inputs to design for and how I try to make sure I pay attention to the advantages and limitations of the input.
 
