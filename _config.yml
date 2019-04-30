@@ -17,7 +17,7 @@ title: JXVD Game Design
 description: >- # this means to ignore newlines until "baseurl:"
   JXVD writes about games
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jxvd.games/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JXVD
 github_username:  JXVD
 
