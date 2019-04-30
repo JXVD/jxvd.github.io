@@ -9,6 +9,8 @@ published: false
 [Last week][last-week] I wrote about really disliking difficulty settings in games. I said that I didn't want to be asked to design a game for fun, which is what beign allowed to vary all the sliders feels like to me. "But Jackson!" I hear you say, "surely you can't feel this way about all settings and choices in games, surely you are a hypocrite in some ways!" You're right, I am a hypocrite, and there are a lot of things that I don't mind being asked to design for fun in games. If I'm going to rail against difficulty settings in one way, I better explain why I feel how I do about difficulty settings and options that I do like.
 
 
+I like when games encourage self imposed challenges 
+
 
 
 
