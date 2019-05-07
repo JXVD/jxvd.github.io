@@ -19,11 +19,9 @@ To start, we're going to look at a concept called Execution Tax. Execution Tax i
 
 It doesn't matter if the people who made the platformer didn't know about the extra height input. Players who really care about the game are still forced to deal with that tax. If the designer also spent a lot of time making the game involve a lot of planning and thinking, the game would be much more difficult than intended. 
 
-What is and isn't an execution tax is relative, and some games don't even need to worry about this at all. Applying this concept Dance Dance Revolution is just silly.
+What is and isn't an execution tax is relative, and some games don't even need to worry about this at all. Applying this concept Dance Dance Revolution is just silly. If we're worried about forcing the player to have to do too many inputs for no reason, how do we include executional difficulty at all? The answer is to make sure that the parts of a game that are hard to do are rewarding to do. That sounds obvious, "you should make the game more fun" is some of the least helpful advice possible, even if it is true. What I mean is that instead of just making something hard to do at all, it should be hard to do well.  
 
-If we're worried about forcing the player to have to do too many inputs for no reason, how do we include executional difficulty at all? The answer is to make sure that the parts of a game that are hard to do are rewarding to do. That sounds obvious, "you should make the game more fun" is some of the least helpful advice possible, even if it is true. What I mean is that instead of just making something hard to do at all, it should be hard to do well.  
-
-Next time I'm going to be writing about Super Smash Bros. Melee as a case study for executional difficulty.
+Next time I'm going to be writing about the Super Smash Bros. series as a case study for executional difficulty and the challenges of doing it well.
 
 Note: In trying to verify if David Sirlin came up with the phrase execution tax, I stumbled across [this post][sirlin2]. I don't agree with everything Sirlin thinks about execution, but this one hews too close to what I'm saying to not mention it.
 
