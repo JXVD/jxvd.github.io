@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Mechanical Difficulty in Melee"
+date:   2019-04-15 12:12:00 -0700
+categories: Physical Games
+published: false
+---
+
+Super Smash Brothers Melee is easy enough to play with all your friends and hard enough to destroy my wrist tendons for life.
+
+This one is going to be a doozy
+We're going to be going over a bevy of techniques and looking at their effects and why they should or shouldn't be present in the game
+
+//DOUBLE CHECK NAMES OF STATES
+
+L-canceling is a mechanic that is invisible to casual spectators of Melee. Much like a duck on water, they will never notice the legs furiously moving to keep that duck moving smoothly to avoid getting comboed by Fox McCloud. After a character does a normal (non-b) move in the air, the will enter into the recovery frames just like a move done on the land. If that character lands during the recovery, they will enter into a different state known as "landing lag." The length of landing lag is different for every move. The larger the move, the longer the recovery when landing. However, if right before landing, the player inputs the L or R button, they will perform an L-Cancel. The term L-Cancel originally stood for Lag Cancel, but the lag isn't actually canceled, instead it is cut in half. Note that the L and R buttons also are the inputs for shield, so the press has to be released quickly to avoid entering into that state by accident. 
+
+//can you l-cancel after landing? on landing? or just right before?
+///I Think 4 frames before landing
+//does l-cancel
+//gif of link dair with and without l-cancelling
+
+L-canceling means that for every single aerial move done close to the ground, there is at least one extra input that a person not in the know doesn't see. The only time anyone ever notices the mechanic is when a player misses the input. There is never a reason to not do this input. New players struggle to remember to consistently do it, while veterans forget it exists until they make a mistake. This is the definition of an execution tax.
+
+
+
+
+Fast Falling is also a mechanic that occurs every time a character is in the air. If a character is falling, the player can input down and the character will fall faster. This can be done any time, and in any state that isn't hitstun as long as the character is falling. Note however, that the character will *not* fastfall if the down input is before the character starts moving downwards. This includes if the down input is held. So if a player attempts to fast fall before they are allowed to, they have to release the down input back to neutral, and then do the down input again.
+
+There are some reasons why a player would want to hold down without fast falling. Maybe they anticipate getting hit and want to get sent downwards. Maybe they want to do a downwards aerial attack without moving fast. However these are problems that are easily solved by the fact that the gamecube controller has multiple buttons that replicate functionality. The X and Y face buttons along with the L and R shoulder buttons both do the same thing as the other. (CLEAN UP SENTENCE) One of those four could have been taken for a fast fall input if they wanted to. Or they could have simply added a buffer system, where if there is a down input within X frames of the character moving down, they fast fall automatically.
+The mechanic is actually fun and interesting. It leads to timing mixups and having to guess what speed your opponent wants to go. It is an incredibly deep yet simple addition to the system, and yet, they did just some stupid stuff
+
+
+//can you fast fall during normals and specials?
+//can this be done during special fall
+
+
+Short Hops, Fast Falls, and L-Canceling are all mechanics that come into play when a character enters the air. They all have their own various sets of parameters to be cognizant of, but we haven't even gotten to the hard part yet. The next step every competitive player has to do is to combine all three mechanics at once to learn how to SHFFL. SHFFLing is when a player inputs a short hop into a normal move combined with a fast fall and then an l-cancel.
+
+
+
+
+Fast Falling
+
+Short Hops
+
+Wavedashing
+
+
+
+I love the movement system of SSBM. I also think it is overly complicated. The Finite State Machine alone has an absolutely absurd number of states. (INCLUDE NUMBER)
+
+In many ways, SSBM is balanced by the fact that the players are not robots and do not yet have mechanical hands to do all their inputs. 
+
+
+
