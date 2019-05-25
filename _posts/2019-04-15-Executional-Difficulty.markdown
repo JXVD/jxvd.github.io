@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Physical Execution"
+title:  "Executional Difficulty"
 date:   2019-04-15 12:12:00 -0700
 categories: Physical Games
-published: false
+published: true
 ---
 
 ## Executional Difficulty
@@ -18,8 +18,8 @@ These definitions are loose, but these concepts are useful. As a designer, the m
 
 Rigorously applying the categorizations runs into a few problems. Is having to visually parse a very chaotic scene an executional challenge or a strategic one? If you have to react and plan at the same time, what category does that fall under?
 
-//have a screen from Touhou
-##### What kind of difficulty is this?
+![touhou](/_images/touhou.png)
+###### What kind of difficulty is this?
 
 The important thing is to keep in mind that there are a lot of potential ways a game can be hard to play. To better think about how games ask players to deal with physical inputs, we're going to look at a concept called Execution Tax.
 
