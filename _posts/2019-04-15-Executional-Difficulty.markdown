@@ -25,7 +25,7 @@ The important thing is to keep in mind that there are a lot of potential ways a 
 
 
 ### Execution Tax
-[David Sirlin][sirlin] uses Execution Tax to describe inputs required by a game that are difficult for no good reason" If every time you jumped in a platformer you got extra height by tapping the jump button five times very quickly, that would be an execution tax. This would be especially true if there was almost never a time that a player didn't want to get the extra height. 
+[David Sirlin][sirlin] uses Execution Tax to describe inputs required by a game that are difficult for no good reason. If every time you jumped in a platformer you got extra height by tapping the jump button five times very quickly, that would be an execution tax. This would be especially true if there was almost never a time that a player didn't want to get the extra height. 
 
 It doesn't matter if the people who made the platformer didn't know about the extra height input. Players who really care about the game are still forced to deal with that tax. If the designer also spent a lot of time making the game Strategically Difficult, the game would much harder than intended.
 
