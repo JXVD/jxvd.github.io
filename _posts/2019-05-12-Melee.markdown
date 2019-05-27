@@ -11,7 +11,12 @@ Super Smash Brothers Melee is easy enough to play with all your friends and hard
 This one is going to be a doozy
 We're going to be going over a bevy of techniques and looking at their effects and why they should or shouldn't be present in the game
 
+
+There are actually two different ways to jump in SSBM, normal jumps and short hops. A normal jump is the
+
+A Short Hop occurs when a player taps jump or up for less than 3-8 frames(depends on character)
 //DOUBLE CHECK NAMES OF STATES
+//double check fox short hop window
 
 L-canceling is a mechanic that is invisible to casual spectators of Melee. Much like a duck on water, they will never notice the legs furiously moving to keep that duck moving smoothly to avoid getting comboed by Fox McCloud. After a character does a normal (non-b) move in the air, the will enter into the recovery frames just like a move done on the land. If that character lands during the recovery, they will enter into a different state known as "landing lag." The length of landing lag is different for every move. The larger the move, the longer the recovery when landing. However, if right before landing, the player inputs the L or R button, they will perform an L-Cancel. The term L-Cancel originally stood for Lag Cancel, but the lag isn't actually canceled, instead it is cut in half. Note that the L and R buttons also are the inputs for shield, so the press has to be released quickly to avoid entering into that state by accident. 
 
