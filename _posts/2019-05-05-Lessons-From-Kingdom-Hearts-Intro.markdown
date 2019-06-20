@@ -28,37 +28,29 @@ The first place to start is exactly where Sora does, in a haze of confusion. The
 ###### Choose one of these
 
 
-Given the choice of sword, shield, and rod, you need to choose one to focus on. You also need to choose one to neglect. This will have extreme and far ranging implications on the actual enjoyment of the game. There is literally no way to know in the game what this means blah blah blah
-
-AJ was apologizing for telling me the wrong choice
-
-The questions about friends and importance and stuff
+Given the choice of sword, shield, and rod, you need to choose one to focus on. You also need to choose one to neglect. This will have extreme and far ranging implications on the actual enjoyment of the game. There is literally no way to know what this means exactly without looking it up. 
 
 
+If you were to go by typical genre conventions for RPGs, you'd expect this was similar to choosing a class, determining what your character was going to be good and bad at. This is fundamentally not the case. It is setting stats, but it is also changing the order you get skills. If you were to grind for 70 hours, ultimately you will end up with the same character no matter the choice. If you don't grind for 70 hours, you will miss a lot of the skills in the game.
 
-So what is the lesson to learn from these vague choices being asked in the intro?
+I went into Kingdom Hearts mostly blind, but I did have a friend telling me what early choices to make. He made a mistake and told me the wrong items to choose and reject. This meant that for the first ten hours of play I was missing a skill that would have made the game both easier and more fun. I never even got to the various skills I was told made the combat actually enjoyable. Maybe this is a metaphor for how lost every human is in the beginning of their life. How there are things that we cannot fundamentally understand as children but must make decisions. We are then punished for whatever we choose. This interpretation helps set the tone as we come to another vague set of choices.
+
+Instead of being fooled by a choice that looks like a standard RPG in the vein of Final Fantasy, we are confronted by young Final Fantasy characters who ask us life questions. "What do you want out of life?" "1. To see rare sights 2. To broaden my horizons 3. To be strong"  So of course what you answer determines how fast you level up in the early game versus how fast you level up in the late game. The only indication that this is the case is that when the game confirms your choices, it tells you what time of day your journey starts. If you start in the early morning, the beginning of the game will be easier. If you start at the dead of night, the end of the game will be easier. To reiterate, the game only tells you what time of day your journey starts.
+
+
+So what is the lesson to learn from these vague choices being asked in the intro? What should we do if we are not trying to cleanse a human soul, but are instead attempting to make an enjoyable game with a clean design?
+
 ### Always tell the player the importance of their choices
 
-I am all for vaguery in games. I am super down to be confused for an hour. I am far less down to be confused for twenty hours. 
+I am all for vaguery in games. I am super down to be confused for an hour. I am far less down to be confused for twenty hours. If a game wants to fool me or give me hard questions, it needs to earn my trust. I have to feel comfortable that I'm not going to be wasting my time if I just play the game. Any time a player feels they need to look at a guide to make sure they are making the right choices, that is a failing on the game's part.
+
+From the very start of Kingdom Hearts, we can see two major mistakes. The first is that the game does not actually explain what choices you are making. What exactly is going on in game terms when I choose a sword over a shield is very important. This first error is compounded by the second, which is that the game doesn't tell us the importance of the choices. If a choice is going to potentially affect 50+ hours of gameplay, it *needs* to be clearly telegraphed that this is the case.
+
+This is extremely important, it's the reason why people are down to watch a confusing 5 second video but may be hesitant to watch 3 hour surrealist art house films. Any piece of media is asking for the viewer's time and energy, the more it asks the more it needs to value it. 
 
 
 
 
-//combat
--doors
--bosses
--dying
--final boss, all sections, why
--flying
--gummy ship
--cernobog
--superglide
--platforming
--grinding for material to craft shit
--the crafting system
--plot
--sea salt ice cream
--grinding
 
 
 
