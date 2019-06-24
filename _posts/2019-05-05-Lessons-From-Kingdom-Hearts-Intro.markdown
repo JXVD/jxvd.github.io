@@ -46,7 +46,12 @@ I am all for vaguery in games. I am super down to be confused for an hour. I am 
 
 From the very start of Kingdom Hearts, we can see two major mistakes. The first is that the game does not actually explain what choices you are making. What exactly is going on in game terms when I choose a sword over a shield is very important. This first error is compounded by the second, which is that the game doesn't tell us the importance of the choices. If a choice is going to potentially affect 50+ hours of gameplay, it *needs* to be clearly telegraphed that this is the case.
 
-This is extremely important, it's the reason why people are down to watch a confusing 5 second video but may be hesitant to watch 3 hour surrealist art house films. Any piece of media is asking for the viewer's time and energy, the more it asks the more it needs to value it. 
+When I say tell the player the importance of their choices, I don't mean that you need to tell the player the answers. The point is to let the player know that what they are doing is going to have ramifications on the entire time they will be playing the game.
+
+ If I am really asked to care about a very vague question, at least I will put the time and effort in to figure out what I think the answer is. After doing that, I expect to have the game react in some way that is appropriate to that game's themes.
+
+
+This is extremely important, it's the reason why people are down to watch a confusing 5 second video but are hesitant to watch 3 hour surrealist art house films. Any piece of media is asking for the viewer's time and energy, the more time it asks for, the more it needs to value it. 
 
 
 
