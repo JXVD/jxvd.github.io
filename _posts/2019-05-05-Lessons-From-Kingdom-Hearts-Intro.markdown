@@ -2,7 +2,7 @@
 layout: post
 title:  "Lessons From Kingdom Hearts Part 1"
 date:   2019-05-05 12:12:00 -0700
-categories: Kingdom Hears
+categories: Kingdom Hearts
 published: false
 ---
 #Lessons from Kingdom Hearts

@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes"
 date:   2019-05-05 12:12:00 -0700
-categories: Kingdom Hears
+categories: Kingdom Hearts
 published: false
 ---
 
