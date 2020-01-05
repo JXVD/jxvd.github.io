@@ -6,33 +6,45 @@ categories: Concepts
 published: false
 ---
 
-With the upcoming sequels to both Half Life 2 and Bioshock, we are forced to confront a deep truth. Both of those games aren't that good at telling stories.
+With upcoming sequels to both Half Life 2 and Bioshock, we are forced to confront a deep truth. Both of those games aren't that good at telling stories. The reason why is that in 2004 and 2007, nobody had accept that First Person just isn't a great perspective to tell a story where the player is an active participant. Telling a narrative story in an FPS is extremely difficult. This is because the player is expected to be embodying a character, but we can't witness how this character changes from an external viewpoint because the player is busy being the character. This means that one of the main tools of narrative storytelling is completely off the table before most games ever start. Telling a good story is hard enough as it is, but FPS games are starting from a down position.
+(FOOTNOTE: this could be solved by simply not making the player the main character, but most games don't want to leave the power fantasy concept just yet.)
 
-
-Half life problems
--innovations for innovations sake
--if you are going to place
-
-
-contrast with portal, game made with same tools
-
-
-Bioshock
-
-Bioshock places you in a world blah blah blah
-
-I hate the narrative gimmick of Bioshock. There is a real problem in games narrative where if the player is expected to embody a character, you probably shouldn't criticize the player for doing so. The "Would you kindly" bit only works if it was ever even implied that the player was ever given an option to not follow the orders given. If you only give the player one route forward, they weren't compelled by anything other than level structure. The only way out for the player would be to quit, which isn't an actual option most games are willing to acknowledge. Not engaging with the structures presented is always a valid option but Bioshock never presents quitting as a thing that exists in its world.
+The narrative gimmick of bioshock is that the character the player is embodying is a clone who must do anything they are told to if it is preceded with "would you kindly."
+ I hate the narrative gimmick of Bioshock.
+If a player is expected to embody a character, the game probably shouldn't criticize that player just for being that character. The "Would you kindly" bit only works if it was ever even implied that the player was ever given an option to not follow the orders given.
+ Every player has the option to not engage with a game, that's what quitting is. (FOOTNOTE: This is a Tom Francis concept that he said somewhere.) Most games don't acknowledge that the player continuing to play is a choice they are making. Bioshock tries to place the player and the character in the same position because it says that neither ever had a choice to not follow the game structure. This is a lie, and it never feels like the main character was compelled by anything other than the labryinth they are trapped in.
 
 Footnote: Undertale actually gets at this problem beautifully in the first ending of the game where you are asked to constantly reload your save game and it is shown as "determination" to continue. the player and the main character are brought together through that. if the player chose to quit there, then the character did as well.
 
+Half Life 2 places the player in a position where they embody an extremely important character in the story, but then never give the player any agency. This in turn means that this very important character doesn't have any agency. Half Life avoids confronting this problem by never acknowledging the player. Instead it asks them to do incredibly dumb actions and then refuses to talk about it. The player has to get into a prison coffin in the middle of a alien military/government facility that transports him to the president's office, that's just what has to occur for the story to continue.
 
-Half Life avoids this problem by never acknowledging the player. Instead it asks them to do incredibly dumb actions and then refuses to talk about it. Why does Gordon/The Player have to get into a prison coffin in the middle of a semi-alien military facility? The player gets talked at, is Gordon mute? That's fine if he is, but like, talk about that, give Gordon some agency. Half Life 2 feels like a fever dream of a story, the player just floats through very long levels without really ever understanding what is going on. The worst is the City 17 levels, where when presented with an implied city to explore, the actual path is a weird sprawling maze that always spits you out where you need to be. There is no navigation or exploration of space, just trying to claw out of the maze.
+The player gets talked at constantly, but never responds. Is the main character mute? That's fine if he is, but like, talk about that, give Gordon some agency. Half Life 2 feels like a fever dream of a story. The player just floats through long levels without really ever understanding what is going on. When presented with an implied city to explore, the actual path is a weird sprawling maze that always spits you out where you need to be. There is no navigation or exploration of space, just trying to claw out of the maze.
+
+Contrast this with Portal, a game made with the exact same tools as Half Life 2, but tells a much better story. The reason for this is that the main character is either a passive participant or doing exactly what the player would want to be doing. The player is never told explicitly that they want to do something, that the character they are embodying is anything other than a direct representation of the player. They are only told that they are supposed to complete some tests and are given no other options. When the narrative twist occurs, surviving is the same thing as continuing to play the game. What Chell wants is the same thing that the game incentivizes. You want to go through these spaces and that is what the game compelles you to do. The lack of implied agency or interaction with other characters frees the game up to tell a simple but well done story.
+
+
+
+The Walking Simulator as a genre also largely avoids the problem of direct character interaction. 
+
+The only FPS that use First Person perspective and try to have character interaction are Immersive Sims or Bethesda Style RPG's. These are also genres that are usually trying to have the player embody a non-specific role. The player is placed in a world and they can choose from a set of options who they think the character they are embodying is.\
+
+DOES THIS HAVE A POINT? 
+
+WRAP IT UP
+
+ 
+
+
+
+
+
 
 
 
 Contrast with Mirror's Edge
 
-Mirror's Edge accepts what it can't do, story or a literal depiction of a world. So instead it makes an aesthetically gorgeous representation of a city. The way things are colored changes to note how Faith sees the world as a place to traverse.  This along with lovingly designed textures leads to The City feeling like a real place. This is also helped by the fact that the game is entirely based around physically interacting with the environment, jumping off roofs, climbing up pipes, dropping off scaffolding. 
+Mirror's Edge accepts what it can't do, a literal depiction of a world. So instead it makes an aesthetically gorgeous representation of a city. The color of an object will change in real time to show how Faith sees the world as a place to traverse. 
 
-The story gets told through animation that is outside of what the player experiences in first person. When the game is in first person, the sotry is nonsensical. Why do I like this version of floating through a space and not Half Life's? The world feels much more like a subjective space that Faith is looking at. I know who Faith is, despite the pretty bad plotting, the actual words that she says feel real. I get what she wants, I know why I'm running through these weird corporate facilities. It makse sense to me why I'm climbing up a large atrium to grab a sniper rifle to shoot out the engine of a police van that is carrying my framed sister to inevitable death.
+ lovingly designed textures leads to The City feeling like a real place. This is also helped by the fact that the game is entirely based around physically interacting with the environment, jumping off roofs, climbing up pipes, dropping off scaffolding. 
 
+The story gets told through between level animations that are outside of what the player experiences in first person. When the game is in first person, the story is nonsensical, but the world feels like a subjective space that Faith is looking at. I know who Faith is, despite the pretty bad plotting, the actual words that she says feel real. I get what she wants, I know why I'm running through these weird corporate facilities. It makse sense to me why I'm climbing up a large atrium to grab a sniper rifle to shoot out the engine of a police van that is carrying my framed sister to inevitable death.
