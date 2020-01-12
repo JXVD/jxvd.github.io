@@ -19,7 +19,7 @@ John Cage said that music and sound were one and the same. Music does not necess
 https://youtu.be/pcHnL7aS64Y
 
 https://youtu.be/gXOIkT1-QWY
-Space Art vs Time Art, one and the same according to Cage, what kind of art are games.
+Space Art vs Time Art, one and the same according to Cage, what kind of art are games?
 
 
 
@@ -57,7 +57,7 @@ CREATING A NOISE GAME
 What does a noise game entail? A game is a sum of its parts. These parts can clash in interesting and valid ways, and perhaps this would be appropriate for a game about the clashing of parts. An alternative would be to have all the parts include a large amount of noise. Large amounts of static in the visual space, noise in audio.
 
 
-If the basic unit we are working with would be a single interaction, should we imply more mechanics that don't exist? SHould we include a lot of mechanics that hold large amounts of value?
+If the basic unit we are working with would be a single interaction, should we imply more mechanics than actually exist? Should we include a lot of mechanics that hold large amounts of depth?
 
 How should the player be represented
 
@@ -71,8 +71,9 @@ A game can be a space to inhabit.  In the same way that sound does not need to b
 09WOP aka DAN SWEGMAN PRESENTS NOISE GAME: A GAME
 
 
-Gucci got a warrent, how the fuck I get supeoned? 
+Gucci got a warrant, how the fuck I get supeoned? 
 Objection! what's the objection? Your Honor I'm a genius.
+-Gucci Mane
 
 Ultimately, I think the equivalent of audio static is a mechanic that exists but has no relation to any other part of a game. If you could artfully connect a bunch of unrelated parts while keeping them separate, you'd have a noise game. If you could  make them all of these various mechanics engaging on their own you'd have a very large amount of noise.
 A close equivalent could be considered the WarioWare series. These games are mostly a large set of four second minigames all connected by a scoring system. The only goal is to keep winning the minigames as they appear. The scoring system and aesthetics outside and between the minigames provide a strong structure that keeps the game overall from feeling too busy or hectic. If you removed the outside structure and any instructions the game would suddenly be very noisy.
@@ -81,9 +82,7 @@ If you removed any incentive to win the minigames, can it still feel vital to ke
 
 
 
-If you remove most of the feedback from a game, eventually you'll be left with a screen that you can turn on and off. I don't consider flipping a tv on and off a game, but maybe that's because I'm limited in my thinking.
-
-
+If you remove almost all of the feedback from a game, eventually you'll be left with a screen that you can turn on and off. I don't consider flipping a tv on and off a game, but maybe that's because I'm limited in my thinking.
 
 
 
