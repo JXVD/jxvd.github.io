@@ -62,7 +62,7 @@ These are the various parts of the movement system, alongside a set of notes on 
 [gui]: https://github.com/JXVD/keyboard-to-xinput
 [vigembus]: https://github.com/ViGEm/ViGEmBus
 
-[ground movement]: https://jxvd.games/kh
+[ground movement]: http://jxvd.games/Ori-Ground-Movement
 [jumping]: https://jxvd.games/kh
 [air movement]: https://jxvd.games/kh
 [wall movement]: https://jxvd.games/kh
