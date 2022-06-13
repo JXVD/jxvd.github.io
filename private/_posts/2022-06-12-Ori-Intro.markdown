@@ -42,10 +42,15 @@ What this means is that while a lot of this data is generally accurate, it isn't
 These are the various parts of the movement system, alongside a set of notes on what I think this system does for the game.
 
 [ground movement][ground movement]
+
 [jumping][jumping]
+
 [air movement][air movement]
+
 [wall movement][wall movement]
+
 [special movement][special movement]
+
 [conclusion][conclusion]
 
 
