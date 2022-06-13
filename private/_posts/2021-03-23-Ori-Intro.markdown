@@ -6,8 +6,6 @@ categories: Ori
 published: true
 ---
 
-
-THIS POST IS NOW LIVE ON THE WEBSITE, EDITING THIS DOES NOTHING 
 ## Ori and the Will of The Wisps Movement System
 
 This is the start of a series taking a very in-depth look at Ori and The Will of the Wisps' movement system.
@@ -43,12 +41,12 @@ What this means is that while a lot of this data is generally accurate, it isn't
 
 These are the various parts of the movement system, alongside a set of notes on what I think this system does for the game.
 
-    [ground movement][ground movement]
-	[jumping][jumping]
-	[air movement][air movement]
-	[wall movement][wall movement]
-	[special movement][special movement]
-	[conclusion][conclusion]
+[ground movement][ground movement]
+[jumping][jumping]
+[air movement][air movement]
+[wall movement][wall movement]
+[special movement][special movement]
+[conclusion][conclusion]
 
 
 
