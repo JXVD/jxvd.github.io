@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Ori Intro"
+date:   2021-03-23 12:12:00 -0700
+categories: Ori
+published: true
+---
+
+
+THIS POST IS NOW LIVE ON THE WEBSITE, EDITING THIS DOES NOTHING 
+## Ori and the Will of The Wisps Movement System
+
+This is the start of a series taking a very in-depth look at Ori and The Will of the Wisps' movement system.
+
+
+### Process
+
+##### Tools
+To get the data I'm using, I mainly used three main tools. The first is the [debug menu][debug] that was accidentally left in the game by the devs. This menu allowed for things like looking at hitboxes, slowing the game down, and looking at a lot of internal data. The next tool was a fan made [program][program] that also looked at the internal values of the game but frontended them in a much cleaner manner for testing. The last tool was a [GUI][gui] I built for [Vigembus][vigembus]. That GUI let me easily set custom Xbox controller values so I could get accurate info for that.
+
+
+##### Input Differences
+One important thing to note is that Unity handles analog and digital inputs differently by default. Unity has a value for the x and y axis that determines what that input is considered set to. When using a controller, the x and y values are just set to wherever the analog stick is. When using a keyboard, after hitting a directional key, Unity will start increasing the x or y value from 0 to 100. There is a slight time lag between the input being pressed and the value being set to maximum. The same is true when releasing the keys. This leads to slight differences in how certain sets of inputs will be handled by the game.
+
+For example, if using a controller, if Ori is running at full speed, and the player lets go of the analog stick and then presses jump immediately, Ori will jump straight up. On a keyboard, if Ori is running full speed and the player lets go of the directional button, then presses jump immediately, Ori will jump diagonally. Another easy way to see this in action is to use the Bash or Launch ability. When using the ability, the aiming arrow will follow the analog stick one to one, but will slowly move for keyboard or d-pad inputs. 
+
+The probable reason for this is that when the keyboard button is released, the x axis value needs to go from 100 to 0, so if the player jumps while the value is getting ramped down, they are still considered to be holding that direction.
+
+I don't know for a fact that this is how various inputs are handled in the game, but due to this potential difference, when testing, I only used the analog stick input.
+
+
+##### Timing Limitations
+Another limitation for the tools that I used was accurate timing of inputs was impossible at the accuracy levels I wanted. The frontend I built for Vigembus has the ability to press a button and release it after a designated amount of milliseconds. This was useful for getting general data, but it ran into a problem when trying to get things accurate to the millisecond. I have no doubt that the timing function that the C# timer system is accurate on a general level, but there are enough layers of abstraction that details would get messy when trying to time things at a per millisecond level. 
+To explain more clearly, whenever I told my frontend to tap a button for 10 milliseconds, that input would need to get processed by my frontend, the vigembus backend, window's internal process for handling xbox controllers, then the game would need to see the input, and then apply it.
+
+There is also the issue that the inputs weren't going to be synced with Ori's framerate, or the polling rate for inputs in general. 
+Games aren't looking for inputs 100% of the time, they just check at specific intervals, oftentimes set to the visual framerate or an internal set framerate, known as the polling rate.
+
+Oftentimes in testing, if I told the virtual controller to input a button for 1 millisecond, the button would get pressed, but it often wouldn't be pressed during a time that the game was actually looking for inputs. Similarly, even if the button press was much longer than 1 millisecond, I couldn't know when the game would first grab the input. If the game checked for inputs 50 times a second, that still means that there is a possible wait time of least 1 millisecond if you just miss the window. Not an important amount for a human, but it makes testing much less deterministic when looking at data.
+
+What this means is that while a lot of this data is generally accurate, it isn't 100% perfect.
+
+
+These are the various parts of the movement system, alongside a set of notes on what I think this system does for the game.
+
+    [ground movement][ground movement]
+	[jumping][jumping]
+	[air movement][air movement]
+	[wall movement][wall movement]
+	[special movement][special movement]
+	[conclusion][conclusion]
+
+
+
+
+
+[debug]: https://www.speedrun.com/ori_wotw/guide/0j6yf
+[program]:https://github.com/ShootMe/LiveSplit.OriWotW/releases
+[gui]: https://github.com/JXVD/keyboard-to-xinput
+[vigembus]: https://github.com/ViGEm/ViGEmBus
+
+[ground movement]: https://jxvd.games/kh
+[jumping]: https://jxvd.games/kh
+[air movement]: https://jxvd.games/kh
+[wall movement]: https://jxvd.games/kh
+[special movement]: https://jxvd.games/kh
+[conclusion]: https://jxvd.games/kh
