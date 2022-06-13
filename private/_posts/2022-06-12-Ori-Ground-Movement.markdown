@@ -3,7 +3,7 @@ layout: post
 title:  "Ori and The Will of The Wisps Ground Movement"
 date:   2022-06-12 12:12:00 -0700
 categories: Ori
-published: false
+published: true
 ---
 
 ## Ground Movement
@@ -12,7 +12,6 @@ This section deals with how Ori moves along the ground when when you move the an
 
 To start, lets look at how walking works. To make Ori start moving at all, the analog stick needs to be pushed to 40% of the way to full. At that point Ori starts tip toeing forward. As you move the stick forward more, the speed Ori moves increases linearly until you hit 79%. When the stick hits 80% there is a large jump in speed as Ori switches animation to running, at which point the speed is capped out. There is no noticable difference between having the stick at 80% and at 100%.
 
-(INCLUDE PICTURE CAPTURE.PNG)
 ![groundChart](/_images/groundChart.png)
 ###### these numbers are not exact
 
