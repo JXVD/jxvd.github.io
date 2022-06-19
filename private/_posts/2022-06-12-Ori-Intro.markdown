@@ -41,17 +41,17 @@ What this means is that while a lot of this data is generally accurate, it isn't
 
 These are the various parts of the movement system, alongside a set of notes on what I think this system does for the game.
 
-[ground movement][ground movement]
+[Ground Movement][ground movement]
 
-[jumping][jumping]
+[Jumping][jumping]
 
-[air movement][air movement]
+[Air Movement][air movement]
 
-[wall movement][wall movement]
+[Wall Movement][wall movement]
 
-[special movement][special movement]
+[Special Abilities][special movement]
 
-[conclusion][conclusion]
+[Conclusion][conclusion]
 
 
 
@@ -63,7 +63,7 @@ These are the various parts of the movement system, alongside a set of notes on 
 [vigembus]: https://github.com/ViGEm/ViGEmBus
 
 [ground movement]: http://jxvd.games/Ori-Ground-Movement
-[jumping]: https://jxvd.games/kh
+[jumping]: http://jxvd.games/Ori-Jumping
 [air movement]: https://jxvd.games/kh
 [wall movement]: https://jxvd.games/kh
 [special movement]: https://jxvd.games/kh

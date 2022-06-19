@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ori and The Will of The Wisps Ground Movement"
+title:  "Ori Ground Movement"
 date:   2022-06-12 12:12:00 -0700
 categories: Ori
 published: true
