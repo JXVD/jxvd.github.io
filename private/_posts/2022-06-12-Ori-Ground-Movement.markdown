@@ -10,9 +10,9 @@ published: true
 
 This section deals with how Ori moves along the ground when when you move the analog stick. Compared to every other part of the system, ground movement is definite and simple.
 
-To start, lets look at how walking works. To make Ori start moving at all, the analog stick needs to be pushed to 40% of the way to full. At that point Ori starts tip toeing forward. As you move the stick forward more, the speed Ori moves increases linearly until you hit 79%. When the stick hits 80% there is a large jump in speed as Ori switches animation to running, at which point the speed is capped out. There is no noticable difference between having the stick at 80% and at 100%.
+To start, lets look at how walking works. To make Ori start moving at all, the analog stick needs to be pushed to 40% of the way to full. At that point Ori starts tip toeing forward. As you move the stick forward more, the speed Ori moves increases linearly until you hit 79%. When the stick hits 80% there is a large jump in speed as Ori switches animation to running, at which point the speed is capped out. There is no noticeable difference between having the stick at 80% and at 100%.
 
-![groundChart](/_images/groundChart.png)
+![groundChart](/_images/groundChart1.png)
 ###### these numbers are not exact
 
 This was tested over relatively flat ground. Slopes do affect Ori's overall speed, but the speed is affected similarly going up and down hills. Ori's overall x and y velocities will fluctuate based on the ground, but the overall velocity remains in a relatively tight range. This is to say that Ori's running speed is stable, but how much distance is covered on a pure left to right basis will change based on the slope.
@@ -27,8 +27,8 @@ There is no restriction on holding up, the only change is that Ori will start lo
 
 
 ### Animation oddities
-With ground movement, Ori's facing direction isn't relevant for anything other than animations. If Ori is facing to the right and the x-input is SOMEVALUE to the left, Ori will do a small turn around animation as they start to move to the left. Their speed would be exactly the same as if they started facing to the left. The animation is just visual and masks how the movement system works.
+With ground movement, Ori's facing direction isn't relevant for anything other than animations. If Ori is facing to the right and the x-input is 74% to the left, Ori will do a small turn around animation as they start to move to the left. Their speed would be exactly the same as if they started facing to the left. The animation is just visual and masks how the movement system works.
 The same turnaround animation also plays when running full speed and changing directions. The reason it happens is actually because the X Input hits the deadzone when going from left to right. The input is read as zero, so that instantaneous braking occurs.
 
-If the analog input goes from 100% in one direction, to 100% in the opposite instantly, never hitting the deadzone, Ori will immediately snap to the running animation for a few frames before the turning animation plays. This isn't noticable to player but it can be seen in slow motion.
+If the analog input goes from 100% in one direction, to 100% in the opposite instantly, never hitting the deadzone, Ori will immediately snap to the running animation for a few frames before the turning animation plays. This isn't noticeable to player but it can be seen in slow motion.
 
