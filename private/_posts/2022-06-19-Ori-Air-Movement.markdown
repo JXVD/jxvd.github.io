@@ -32,5 +32,5 @@ One small note is that air vents will push you upward while gliding. They also r
 
 [back to intro][intro]
 
-[intro]:http://jxvd.games/Ori-Ground-Movement
+[intro]:http://jxvd.games/Ori-Intro
 

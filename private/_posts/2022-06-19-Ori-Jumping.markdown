@@ -45,4 +45,4 @@ Another common platformer mechanic is buffering jump inputs. This means that if 
 
 [back to intro][intro]
 
-[intro]:http://jxvd.games/Ori-Ground-Movement
+[intro]:http://jxvd.games/Ori-Intro

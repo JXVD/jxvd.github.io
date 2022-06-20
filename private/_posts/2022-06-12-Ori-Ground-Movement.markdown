@@ -35,4 +35,4 @@ If the analog input goes from 100% in one direction, to 100% in the opposite ins
 
 [back to intro][intro]
 
-[intro]:http://jxvd.games/Ori-Ground-Movement
+[intro]:http://jxvd.games/Ori-Intro
