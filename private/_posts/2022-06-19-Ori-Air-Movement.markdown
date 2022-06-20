@@ -27,9 +27,10 @@ Gliding seems to slow down any and all Y velocity changes, instead of speeding u
 
 Interestingly, glide seems to slow down any changes to vertical momentum. If you jump while holding glide, you still move upwards while gliding but it will decay the y-velocity slightly slower than not doing so. Doing a full jump this way results in jumping about 6% higher than not doing so.
 
-
 One small note is that air vents will push you upward while gliding. They also reset your dash if you glide after the dash so you can move quite quickly by gliding for a short time then dashing. This is repeatable so horizontal movement in areas with air vents can be incredibly quick.
 
 
+[back to intro][intro]
 
+[intro]:http://jxvd.games/Ori-Ground-Movement
 

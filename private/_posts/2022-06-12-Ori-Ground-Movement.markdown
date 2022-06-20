@@ -32,3 +32,7 @@ The same turnaround animation also plays when running full speed and changing di
 
 If the analog input goes from 100% in one direction, to 100% in the opposite instantly, never hitting the deadzone, Ori will immediately snap to the running animation for a few frames before the turning animation plays. This isn't noticeable to player but it can be seen in slow motion.
 
+
+[back to intro][intro]
+
+[intro]:http://jxvd.games/Ori-Ground-Movement

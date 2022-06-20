@@ -64,7 +64,7 @@ These are the various parts of the movement system, alongside a set of notes on 
 
 [ground movement]: http://jxvd.games/Ori-Ground-Movement
 [jumping]: http://jxvd.games/Ori-Jumping
-[air movement]: https://jxvd.games/Ori-Air-Movement
+[air movement]: http://jxvd.games/Ori-Air-Movement
 [wall movement]: https://jxvd.games/kh
 [special movement]: https://jxvd.games/kh
 [conclusion]: https://jxvd.games/kh

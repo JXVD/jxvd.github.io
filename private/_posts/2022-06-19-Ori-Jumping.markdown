@@ -42,3 +42,7 @@ Coyote Time is a mechanic present in most platformers that gives leniency to pla
 
 Another common platformer mechanic is buffering jump inputs. This means that if the jump button is hit early, the jump will still come out as if it was hit when Ori was on the ground. This does not seem to present at all for jumps. If it does exist at all, it would be very miniscule as I was unable to consistently get first frame jumps in testing.
 
+
+[back to intro][intro]
+
+[intro]:http://jxvd.games/Ori-Ground-Movement
