@@ -12,7 +12,7 @@ Jumping in Ori and the Will of The Wisps is broadly simple, with a lot of small 
 
 There are two kinds of jumps, neutral jumps where you don't have an x input and angled jumps where you do. Regardless of current velocity, if you aren't holding any x input you will jump straight up. If you are holding an x-input, you will jump at a set angle. Your horizontal speed will not affect this angle, it will always be the same no matter what.
 
-The threshold for angled jumps is 41%, note that this is different from the 40% threshold for starting to move. So there is a deadzone the size of 1% of an xbox controller's input range that will have Ori slowly tiptoe forward but when you jump they will move straight up. It looks [quite strange](/_images/walkingJump.mp4)
+The threshold for angled jumps is 41%, note that this is different from the 40% threshold for starting to move. So there is a deadzone the size of 1% of an xbox controller's input range that will have Ori slowly tiptoe forward but when you jump they will move straight up. It looks [quite strange.](/_images/walkingJump.mp4)
 
 When the jump button is pressed, the jump force is applied immediately. The X and Y velocities are set to the jump values. The velocity values will then start to be gradually affected by forces. The X velocity will be affected by player input left and right, and the Y velocity will be affected by gravity.
 
