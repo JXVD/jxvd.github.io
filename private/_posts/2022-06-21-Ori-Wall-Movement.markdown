@@ -38,3 +38,10 @@ The full away jump sets the Y Velocity to 23 units, the same number as normal ju
 
 While the jumps holding away from the wall are consistent, Jumping off a wall with no x input is a lot less clear. The general case is that when the jump button is pressed, both X and Y are set to a given velocity, and then the X velocity stays the same for a set number of frames. Unlike normal air movement, with no X input, Ori does not immediately start to slow down. The issue is that all of these numbers seem highly variable based on the wall and Ori's position on it. In some cases the X velocity will be set to as low as 9 units. In other cases, seemingly when Ori bumps their head against the slope of the wall, the X velocity can be set to as high as 19 units.  The number the Y velocity is set to 
 
+
+[back to intro][intro]
+[forward to Special Movement][special]
+
+
+[intro]:http://jxvd.games/Ori-Intro
+[air]:http://jxvd.games/Nothing-Here-Yet

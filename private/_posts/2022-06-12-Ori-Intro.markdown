@@ -14,7 +14,7 @@ This is the start of a series taking a very in-depth look at Ori and The Will of
 ### Process
 
 ##### Tools
-To get the data I'm using, I mainly used three main tools. The first is the [debug menu][debug] that was accidentally left in the game by the devs. This menu allowed for things like looking at hitboxes, slowing the game down, and looking at a lot of internal data. The next tool was a fan made [program][program] that also looked at the internal values of the game but frontended them in a much cleaner manner for testing. The last tool was a [GUI][gui] I built for [Vigembus][vigembus]. That GUI let me easily set custom Xbox controller values so I could get accurate info for that.
+To get the data I'm using, I mainly used three main tools. The first is the [debug menu][debug] that was accidentally left in the game by the devs. This menu allowed for things like looking at hitboxes, slowing the game down, and looking at a lot of internal data. The next tool is a fan made [program][program] that also looks at the internal values of the game but frontends them in a much cleaner manner for testing. The last tool was a [GUI][gui] I built for [Vigembus][vigembus]. That GUI let me easily set custom Xbox controller values so I could get accurate info for that.
 
 
 ##### Input Differences
@@ -65,6 +65,6 @@ These are the various parts of the movement system, alongside a set of notes on 
 [ground movement]: http://jxvd.games/Ori-Ground-Movement
 [jumping]: http://jxvd.games/Ori-Jumping
 [air movement]: http://jxvd.games/Ori-Air-Movement
-[wall movement]: https://jxvd.games/kh
+[wall movement]: http://jxvd.games/Ori-Wall-Movement
 [special movement]: https://jxvd.games/kh
 [conclusion]: https://jxvd.games/kh

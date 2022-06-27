@@ -34,5 +34,7 @@ If the analog input goes from 100% in one direction, to 100% in the opposite ins
 
 
 [back to intro][intro]
+[forward to Jumping][jump]
 
 [intro]:http://jxvd.games/Ori-Intro
+[jump]:http://jxvd.games/Ori-Jumping

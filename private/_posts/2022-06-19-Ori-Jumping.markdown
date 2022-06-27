@@ -10,11 +10,11 @@ published: true
 
 Jumping in Ori and the Will of The Wisps is broadly simple, with a lot of small weird caveats.
 
-There are two kinds of jumps, neutral jumps where you don't have an x input and angled jumps where you do. Regardless of current velocity, if you aren't holding any x input you will jump straight up. If you are holding an x-input, you will jump at a set angle. Your horizontal speed will not affect this angle, it will always be the same no matter what.
+There are two kinds of jumps, neutral jumps where you don't have an x input and angled jumps where you do. Regardless of current velocity, if you aren't holding any x input you will jump straight up. If you are holding an x-input, Ori will jump at an angle. Previous horizontal speed will not affect this angle, it will always be the same no matter what. This is because Ori's air movement acceleration only cares about an input being held, not the value.
 
 The threshold for angled jumps is 41%, note that this is different from the 40% threshold for starting to move. So there is a deadzone the size of 1% of an xbox controller's input range that will have Ori slowly tiptoe forward but when you jump they will move straight up. It looks [quite strange.](/_images/walkingJump.mp4)
 
-When the jump button is pressed, the jump force is applied immediately. The X and Y velocities are set to the jump values. The velocity values will then start to be gradually affected by forces. The X velocity will be affected by player input left and right, and the Y velocity will be affected by gravity.
+When the jump button is pressed, the jump force is applied immediately. The Y velocities is set to the jump value, around 24 units. The velocity values will then start to be gradually affected by forces. The Y velocity will be affected by gravity and the X velocity will be affected by player input left and right. Note that with an angled jump, the X velocity is not directly set by the game, air acceleration is the only force being applied.  
 
 After jumping, you can release the jump button at any time. While the button is held, the effect of gravity on the jump is lessened. When the button is released the jump effect goes away, allowing gravity to act fully on the jump.
 There is a minimum height that happens when the button is pressed for 15 ms or less. The maximum height occurs around 450ms, but the height starts to level off closer to 350ms.
@@ -26,6 +26,8 @@ There is a minimum height that happens when the button is pressed for 15 ms or l
 There isn't a large difference between jumps at 350 and 450, there is very little extra height or extra airtime.
 
 Horizontal speed does not affect jump height at all. A jump done from a standing position will be the same as one done from a full sprint.
+
+Landing from a jump doesn't change speeds at all, but if an X input is held at all, there is a special landing animation for transition into running. This is very noticable if the X input is just past the movement threshold, after landing, Ori will start to run for a moment before immediately snapping into a tip toe animation.
 
 
 
@@ -43,6 +45,10 @@ Coyote Time is a mechanic present in most platformers that gives leniency to pla
 Another common platformer mechanic is buffering jump inputs. This means that if the jump button is hit early, the jump will still come out as if it was hit when Ori was on the ground. This does not seem to present at all for jumps. If it does exist at all, it would be very miniscule as I was unable to consistently get first frame jumps in testing.
 
 
+
 [back to intro][intro]
+[forward to Air Movement][air]
+
 
 [intro]:http://jxvd.games/Ori-Intro
+[air]:http://jxvd.games/Ori-Air-Movement

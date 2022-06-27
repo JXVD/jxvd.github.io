@@ -17,7 +17,7 @@ Note that the movement threshold in the air is 1% different from the 40% thresho
 Unlike ground movement, stopping in the air is not instantaneous. When there is no X input, the velocity is quickly linearly ramped down to zero from whatever value it was at.
 Accordingly, changing directions is also not instant, with no instant brake in place, going from left to right requires the x velocity to linearly go from negative values to positive ones.
 
-The maximum X velocity in the air is the same as on the ground, there is no difference in horizontal speed when jumping or running. The maximum y velocity however seems to be uncapped for most purposes. It is possible that the number can't go arbitrarily high, but it can get up to at least 2-3 times the x velocity cap. (-83.6 units is the largest speed I've seen, compared to the 23 speed max for X movement)
+The maximum X velocity in the air is the same as on the ground, there is no difference in horizontal speed when jumping or running. The maximum y velocity however seems to be uncapped for most purposes. It is possible that the number can't go arbitrarily high, but it can get up to at least 2-3 times the x velocity cap. (-132.03 units is the largest speed I've seen, compared to the 23 speed max for X movement)
 
 ### Double Jumping and Gliding
 
@@ -31,6 +31,7 @@ One small note is that air vents will push you upward while gliding. They also r
 
 
 [back to intro][intro]
+[forward to Wall Movement][wall]
 
 [intro]:http://jxvd.games/Ori-Intro
-
+[wall]:http://jxvd.games/Ori-Wall-Movement
