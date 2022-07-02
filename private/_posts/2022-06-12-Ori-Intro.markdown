@@ -39,7 +39,7 @@ Oftentimes in testing, if I told the virtual controller to input a button for 1 
 What this means is that while a lot of this data is generally accurate, it isn't 100% perfect.
 
 
-These are the various parts of the movement system, alongside a set of notes on what I think this system does for the game.
+These are the various parts of the movement system, alongside a conclusion that talks about what these systems achieve.
 
 [Ground Movement][ground movement]
 
@@ -66,5 +66,5 @@ These are the various parts of the movement system, alongside a set of notes on 
 [jumping]: http://jxvd.games/Ori-Jumping
 [air movement]: http://jxvd.games/Ori-Air-Movement
 [wall movement]: http://jxvd.games/Ori-Wall-Movement
-[special movement]: https://jxvd.games/kh
-[conclusion]: https://jxvd.games/kh
+[special movement]: https://jxvd.games/Ori-Special-Movement
+[conclusion]: https://jxvd.games/Ori-Conclusion
