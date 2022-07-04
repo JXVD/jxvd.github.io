@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ori Intro"
+title:  "Ori and The Will of the Wisps Intro"
 date:   2022-06-12 12:12:00 -0700
 categories: Ori
 published: true
