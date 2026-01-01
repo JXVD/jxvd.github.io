@@ -112,7 +112,7 @@ I have some issues with how slow the ranked climb is, and the balance was good b
 
 #### Hypogea
 
-I have always really liked platformers, but I don't play them anymore. It feels like work, I spent too much time on the Ori project that I just sorta start to analyze every part of a platformer when I start it. It isn't a relaxing experience. I got over it to play Hypogea nad I am glad I did. I have an unencumbered love for robots and that helped me out here. The pole vaulting movement was a novel idea that really added a lot of fun and new dynamic movement. The game didn't overstay itswelcome. It is in and out, 3 or 4 areas, have a nice lil two hour session and call it a day, what else do you need?
+I have always really liked platformers, but I don't play them anymore. It feels like work, I spent too much time on the [Ori project][Ori Project] that I just sorta start to analyze every part of a platformer when I start it. It isn't a relaxing experience. I got over it to play Hypogea nad I am glad I did. I have an unencumbered love for robots and that helped me out here. The pole vaulting movement was a novel idea that really added a lot of fun and new dynamic movement. The game didn't overstay itswelcome. It is in and out, 3 or 4 areas, have a nice lil two hour session and call it a day, what else do you need?
 
 #### Neo Turf Masters
 
@@ -144,4 +144,5 @@ Sanjuro
 Victory Gundam
 Stand Alone Complex
 
-[lumines]: https://jxvd.games/End-Of-Year-2024
+[lumines]: https://jxvd.games/Lumines
+[Ori Project]: https://jxvd.games/Ori-Intro
