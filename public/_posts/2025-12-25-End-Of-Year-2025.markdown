@@ -1,0 +1,147 @@
+---
+layout: post
+title:  "End of Year 2025"
+date:   2025-12-31 12:12:00 -0700
+categories: List
+published: true
+---
+
+
+Another year, another beautiful set of games that I really liked. 
+
+
+For the majority of this year I was losing my mind trying to hit A-Rank in 3rd Strike. I got incredibly close (6 people away), but I never secured it. I don't have any major fighting game goals currently, but I'm sure that I'll find something.
+
+This year I started a project where I'm playing a bunch of abstract games and making a lot of notes about them. This is for personal edification as I try to get back into thinking about game design.
+When I say abstract games, I'm mostly thinking about the artstyle. I'm interested in art that isn't trying to represent physical objects. This isn't a hard and fast rule, but I'm thinking about Tetris, Arkanoid, and Tempest more than even something like Snake or Centipede. I am also interested in games that could be abstracted down pretty easily, something like Money Puzzle Exchanger doesn't hit my criteria exactly but it isn't hard to imagine a version that did. This lead to me playing a lot of games I wouldn't have, and I still have a list of ones I intend to get to, but there are so many projects I want to do and I have only so much project energy. If I don't have some truly weird shit on this list next year, it won't be a failure, but I hope I go crate digging more than a few times.
+
+
+# Best Games I Played in 2024
+
+#### Ace Combat 7
+
+I wrote a note after writing last year's post that I needed to not forget about Ace Combat. And I won't lie, I did, cause a year is long. That is more to my brain's wiring than the quality of this game. This is what games should be. If they made triple A games like this, the world would be better. It still has the voice acting, the story, the weird plots, the Drama, but it also has action game set pieces that fuck supremely. It also has levels that suck in a good way, in the old way, when things were allowed to suck. Just flying around is a grand old time.
+
+#### Lumines / Lumines Live / Lumines 2 / Lumines Remastered
+
+I love Lumines, I have a lot of thoughts, I put them [here][lumines]
+
+#### Crossniq+
+
+This was part of my abstract game journey, and it is a quite fun puzzle game. You can watch 5 seconds and get what is happening so I don't feel a need to go into Lumines level detail here. The unique blocks they have are fun and give a good sense of surprise. I do wish they had maybe a quarter second of downtime between line clears because playing this for long periods is tiring.
+
+I uh, don't know why they have a sparkledog shopkeeper that seems to exist to only sell outfits for the other furry characters. A unique choice, and like, they made the game and get to have it appeal to their own aesthetics, but the rest of the thing doesn't really line up with that specific choice in my mind. Not even like, a knock on the game, because the game is puzzle game that is enjoyable to interact with.
+
+#### Mixoluma
+
+Also an abstract game, I don't have a ton to say but, it is a well made block dropping game and the sliding mechanic is neat.
+
+#### Gunpey
+
+This is the final abstract game on the list. I played the PSP version, which was made by the Lumines studio and it is up there in quality with Lumines. Just a fantastic experience. A simple conceit, made very cleanly. They didn't overcook this one at all. In and out, here's a fun time on your handheld device. Make a Tetris effect style game for this one please, but a different aesthetic this go around than the last 2.
+
+#### Tactical Breach Wizards
+
+I have been playing Tom Francis's games since Gunpoint and I'm gonna keep doing it. This was by far his best work and really made me reconsider my distaste for Tactics combat. Very funny, and it consistently made me feel clever. The side goals in each mission are fun, but unobtrusive, they made me reconsider the possibility space of each map without making me feel bad about not succeeding.
+
+#### Citizen Sleeper 2
+
+I loved Citizen Sleeper 1, that was a game that really hit me with feelings and wanted to investigate some of the core tenants of my being. The dice mechanics felt tense but weren't punishing, they were a narrative tool far more than a mechanical one. You could never really fail and that was on purpose.
+
+That is no longer the case in Citizen Sleeper 2, which takes all the beauty of CS1 and adds a lot more mechanical intrigue in the options you have to choose. The contract system is a fantastic addition to an already great game. I didn't get rocked on my central axis like CS1, but this is probably a better game in the abstract. What a joy to play this, what a fulfilling work. I love the characters, the couple that return from 1 fill me with such warmth when I see them again. If you were only going to play one of the two games, it'd be this one, but no need to limit yourself, live a little, live mas. 
+
+I played through this one pretty faithfully and straightforward, completing it when I felt it was time. Next go around I'm getting all the content and I will drink deep and drink well.
+
+#### Last Guardian
+
+I love Ico, I love Shadow of the Colossus. This is not on the same level as either of those. In exchange for the beautifully crafted and explorable spaces, they crafted an absurdly rendered version of what they were trying with Yorda and Argo. I loved the spaces more than the companion, but hey, I get it. Trico is an achievement, but not what I wanted.
+
+#### Balatro
+
+I avoided playing Balatro because I knew it would be a thing that I liked. I spent around 600 hours playing Slay the Spire and this was just gonna be more of that. But I was stressed out and needed to destroy some hours and Balatro was there for me. It was exactly what I thought it would be and I liked it a lot. The jokers are interesting, the various ways to spice up the play is nice. I wish I had more to say, but it is a very straightforward design that was executed well. There are a lot of nooks and crannies you could really investigate if you want to think about the elements and how you could improve the game, but I honestly don't want to think about Balatro anymore. My brain has been soothed and smoothed, I need it no longer.
+
+#### Alan Wake 2
+
+I played through the rest of Monsieur Wake's works recently and they are compelling pieces that are all strange in their own ways. Remedy doesn't care about the things that I care about but they care a lot and that really does count for something. They are more interested in crafting a plot/narrative than playing with the mechanical space all too much. So the musical number didn't do it for me, but the 15 minute experimental short film within a movie theater really fucking did.
+
+#### Monster Hunter Wilds
+
+This was a lesser Monster Hunter Release, but hey, it is still monster hunter. It was a step in the right direction from the hyper-mobility of Rise, but I never really felt like I was challenged and I'm not a hardcore-hardcore player. I still love the monster hunter loop. I just want one that has harder combat but with no loading zones in the world. I should go back to some of the older ones (I started with Tri) and really dig in one of these years. 
+
+#### Asuka 120% Limit Over
+
+I played this a friend and I gotta say, why is this not a widely beloved title on the level of a Vampire Saviors or a Street Fighter Alpha? Asuka 120% rules, some of the most fun movement and mechanics in a fighting game, and so early. Incredibly easy to pick up and play, lots of fun to be had. I need to get back to this.
+
+#### Nine Sols
+
+The homie is a Metroidvania freak and recommend this more forcefully than others he mentions and he was right to. If you enjoy parries at all, this is worth it. I usually come to these for good movement and I'd say that is lacking here, but the combat and exploration are more than enough to make up for that.
+
+#### Polimines/Polimines 2
+
+This is picross mixed with Mine Sweeper. If that sounds intriguing then you should play it. The first game doesn't have a good deduction system, and the second one adds in the ability to draw. So you should play the first one as far as you can stand before upgrading.
+
+#### Pacific Drive
+
+Every now and then I admit to myself that I do like brain sandpaper, something to take the edge off. To collect and build, to survive and craft. My favorite game about cars is Need For Speed Underground 2, because my fantasy isn't having a bunch of cars, it is loving one object and really working it to be mine. I don't plan on owning a car in real life anytime soon, but a PNW driving simulator really did hit a nice place for me.
+
+#### Elden Ring Nightreign
+
+This is in a weird place because it doesn't quite hit what I like with Fromsoft games, I am not being gifted new spaces to explore in exchange for combat, I am being gifted more combat. The combat is fun, I enjoyed playing with the homie. If you want more elden ring, there it is.
+
+#### Money Puzzle Exchanger
+
+Just play this one, it'll take 5 minutes to set up and then you can have fun moving pieces around. A puzzle game with a really kinetic feeling. I play on arcade stick and that feel appropriate.
+
+#### Hollow Knight Silksong
+
+Hollow Knight is a top 10 game for me. I did not get swept up in the hype cycle, I successfully memory holed that silksong was coming out and that I could conceivably have feelings about it. This worked until 2 weeks before the release date and I remembered I really wanted to play this. Well it was better than I could have hoped. Who could expect something better than one of the best games of all time? As with Hollow Knight, it violates my opinion that metroidvanias should be less than 10 hours; but it has such intensely crafted spaces and movement is such a joy. We just had something like a decade of people making Hollow Knight clones and we're maybe gonna have a decade more now.
+
+#### Block Hole
+
+I like the idea of Block Hole more than I like Block hole, but I played it for 30 minutes and was compelled. There is something here. Moving things around with an arcade stick is fun.
+
+#### Hades 2
+
+This is ultimately more Hades. The writing is less fun, but the combat is just as good, if not better. I spent a lot of hours playing this, I have nothing new to say.
+
+#### 2xKO
+
+This is the most fun I've had with a new fighting game. Most Fighting Games I like tend to be older, because the things I enjoy tend to be frustrating to other people (good projectiles, spacing dependent confirms of buttons, good movement both forwards and back). This has lead to it seeming like I'm an old man who hates new things, and I'm glad 2xKO has alleviated that. This game lets me embrace my feeling of "god bless this mess." Things being structured and even are for losers. 
+
+I have some issues with how slow the ranked climb is, and the balance was good but left some things to be desired. This leads to an issue where team construction in ranked/tournament play is quite boring because you just should be picking the top 2 characters and their synergy is probably good enough. This will get ironed out, I am sure, but if I'm judging the game based on right now, I wish I could see more variety. I haven't been excited for an actively updating game in a long time and I'm not used to caring what new changes are coming down the line.  
+
+#### Hypogea
+
+I have always really liked platformers, but I don't play them anymore. It feels like work, I spent too much time on the Ori project that I just sorta start to analyze every part of a platformer when I start it. It isn't a relaxing experience. I got over it to play Hypogea nad I am glad I did. I have an unencumbered love for robots and that helped me out here. The pole vaulting movement was a novel idea that really added a lot of fun and new dynamic movement. The game didn't overstay itswelcome. It is in and out, 3 or 4 areas, have a nice lil two hour session and call it a day, what else do you need?
+
+#### Neo Turf Masters
+
+This is a rewarding and relaxing golf game on the neo geo. Music is fantastic, game is fair but not boring. Go into the dipswitches and set the time per shot super high and you can really savor a nice day out on the greens
+
+#### Clair Obscur: Expedition 33
+
+The homie really liked this and I've been meaning to play some RPGs so it was between this and a classic. It is weird to play something where I feel like I understand both sides of the talk. If I was an RPG head I'd totally get why some people are going insane that this is the one that the zeitgeist latched onto. It is passable on all fronts but no one thing jumps out as extraordinary. The gameplay is fun, the graphics are alright, the visual designs are interesting enough but in execution the game looks like a standard Unreal engine game, the lighting just does no favors to the things they got going on.
+
+But also I put 60 hours into the thing. I like RPGs with real-time elements, I like Paper Mario, I really like Mario & Luigi, I liked Bug Fables combat. I like Clair Obscur. Not the best game I played this year, or the best game I played that came out this year but it is in the top 10.
+
+# Other Media
+
+I typically write up similar posts for other media, but this was enough words for right now, I wrote an essay on Lumines in addition to this. may get back to this, but here is a list regardless 
+
+
+Hundreds of Beavers
+Revolutionary Girl Utena
+Haruhi Suzumiya 
+Tower of God
+36th Chamber of Shaolin
+Seven Samurai
+Raven of the inner Palace
+Yojimbo
+Branded to Kill
+Lady Snowblood
+Lady Snowblood 2
+Sanjuro
+Victory Gundam
+Stand Alone Complex
+
+[lumines]: https://jxvd.games/End-Of-Year-2024

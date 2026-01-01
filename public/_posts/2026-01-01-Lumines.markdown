@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Lumines"
+date:   2026-01-01 12:12:00 -0700
+categories: List
+published: true
+---
+
+#### Lumines / Lumines Live / Lumines 2 / Lumines Remastered
+
+*I wrote this as part of my [end of year list][2025], but it ballooned with thoughts so I've put it here*
+
+I love Lumines, I discovered it this year before Lumines Arise was announced.
+
+I started playing this as part of the abstract games project I mentioned in the 2025 list post, so it was a really big shock to see this get a Tetris Effect style release the same year as I got invested. I'm gonna cover all the ones I played but first I want to tackle just Lumines as an idea. 
+
+Lumines is a perfect game, it is is such an absurdly clean and clear design. It is very easy to understand at a glance. You have 2 colors, blocks of 4 with random distribution, and a bar that will sweep across the screen, clearing any colored blocks that have formed at least a 4x4 square. Any contiguous sets of 2 blocks that touch a completed square can also be cleared (I couldn't specifically list out how the additional block rule works and I'm not looking it up now.) You lose when it gets to the top and you can't place a single row of blocks.
+
+The trick is in the executional details. The pieces controlled by the player can only move on the grid, one square at a time, horizontally and vertically. However the pieces moved automatically by the computer don't operate on the grid. Pieces drop smoothly, and more importantly, the sweeping bar will *only* clear the blocks it is touching when a square is completed. This means it is possible to make a large block of a color that only has a piece of it chopped off. Along with the contiguous block touching rules, this adds a lot of beautiful mess to the space that could feel very antiseptic. 
+
+The only mechanical flourish added on is the special blocks that will clear anything that is contiguous with them. This lets the player clear the board of really gnarly sets of blocks that just couldn't be cleared otherwise. It isn't the most perfectly elegant solution, but I do think it works quite well and creates a fun mini-game of trying to connect disparate groups in a hurry while the bar is sweeping by.
+
+2 colors, 4x4 blocks, 4x4 musical score, beautiful work.
+
+Lumines 1 is great, I didn't play it a ton, sets up the idea, everything is all there. Lumines 2 is a mess due to the musical choice. I don't dislike discordant music, I actually like the Lumines 2 songs, they just don't fit for a puzzle game. Lumines Live really refines the PSP aesthetic, just makes it a little bit higher res. I love the mid-2000s clean digital aesthetic that is happening with Lumines. Lumines Remastered is basically Lumines Live, my only complaint is that to unlock all of the skins, you have to play through the same set to get to the new ones. This means I will play for up to 40 minutes of the same stuff and not get to the new skins. 
+
+Lumines Arise is both gorgeous and a mistake. The graphics are fantastic, wildly imaginative and beautiful to look at. The issue is that on default modes, I got motion sickness, which I've literally never felt in my life. The camera moves way way way too much for a puzzle game where being able to see the board is very important. Also the pieces move, and the edges are hard to make out, and there is negative space in between blocks at times, which means you can see the background through them. This makes it harder to read the board quickly.
+
+The music and aesthetic are fine, but are just not for me, I dislike the New Age aesthetic and sound compared to what was going on before, but that truly is a personal thing. As I said, the graphics are intensely impressive on a purely technical level, this game achieved something special there and just needed a bit of polish.
+
+What I can't excuse is the new mechanic, which I'm not gonna look up the name for. Essentially, you build up a super bar, and then you hit the super button, and then a super block is created. You then attach blocks of the right color to the super block, and the more you attach, the more good things happen, like moving wrong color blocks off the screen. The super block is unaffected by the bar, it just has a timer I believe, and then once it is done, it will be cleared and then all the wrong colored blocks will return to the screen. 
+
+This super block almost entirely eliminates the board building that had happened before, it erases problems you created and ignores the elegance of the sweeping bar. It feels tacked on, doesn't solve any problems the special blocks don't already solve. 
+
+This is so intensely wrong-headed. Lumines is such an elegant work, it needed no bells and whistles added. It is on the level of Tetris, it is a perfect object. Give it the Tetris Effect treatment, go wild, but don't disrespect the beautiful work you created. Like I get the impulse and the person who ok'd it is the creator of Lumines, so I get why you'd try to improve your own work when you return to it. It can be hard to see if something is so clean it is lacking interest, or so clean that it is a minimalist masterpiece.
+
+
+
+[2025]: https://jxvd.games/End-Of-Year-2025
