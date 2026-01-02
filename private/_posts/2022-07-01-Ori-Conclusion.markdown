@@ -12,7 +12,6 @@ So now that we've taken a deep look at the parts of the movement system, how doe
 The first thing to notice is that some forms of movement are very discrete and definite. Any time you stop running on the ground, the X velocity gets set to zero. The game does not quickly move the value down, instead it just makes the value zero.
 Contrast this to stopping in the air. When you stop holding a direction, the X velocity does quickly go to zero, but it ramps down. 
 
-//find better words than definite and relative
 Generally speaking, when you are physically touching a surface, movements are more likely to be definite.  Each action is discrete and does not take into account your current momentum. 
 When you are in the air, movement is more likely to be relative. Momentum tends to carry from one action to the next.
 
